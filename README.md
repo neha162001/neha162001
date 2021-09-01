@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neha162001
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning languages and developemen
+- 🌱 I’m currently learning languages and developement
 - 📫 How to reach me ...
 
 <!---
